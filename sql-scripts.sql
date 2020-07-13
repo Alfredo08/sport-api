@@ -1,0 +1,6 @@
+
+CREATE TABLE sport(
+    id INTEGER NOT NULL PRIMARY KEY,
+    name TEXT NOT NULL,
+    num_players INTEGER NOT NULL
+);
